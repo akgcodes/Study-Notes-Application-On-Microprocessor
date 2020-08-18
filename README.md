@@ -6,4 +6,4 @@ It contains basics of 8085 microprocessor  including video tutorials and sample 
 ![WhatsApp Image 2020-08-10 at 6 27 36 PM (1)](https://user-images.githubusercontent.com/42003052/90480802-6bc51c00-e14e-11ea-9b59-35bed7ca7c78.jpeg)
 
 
-![Uploading WhatsApp Image 2020-08-10 at 6.27.36 PM (2).jpeg…]()
+![WhatsApp Image 2020-08-10 at 6 27 36 PM (2)](https://user-images.githubusercontent.com/42003052/90481346-3c62df00-e14f-11ea-9bb6-5021303b4f06.jpeg)
